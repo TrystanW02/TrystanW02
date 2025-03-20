@@ -34,6 +34,6 @@
 ### Penetration Testing
 
 ## 📫 How to reach me:
-### LinkedIN
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
 ### Reddit
 
