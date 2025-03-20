@@ -1,6 +1,6 @@
-# 🤝 Trystan Williams
-## 💼 Tech Asset Clerk
-## 🎓 B.S Information Science & Technology // University of Oklahoma
+#🤝 Trystan Williams
+##💼 Tech Asset Clerk
+##🎓 B.S Information Science & Technology // University of Oklahoma
 
 <!--
 **TrystanW02/TrystanW02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
