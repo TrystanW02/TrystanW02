@@ -34,7 +34,7 @@
 ### Penetration Testing
 
 ## 📫 How to reach me:
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftrystan-williams-914228225%2F)
-
+### LinkedIn
 ### Reddit
+### Email
 
