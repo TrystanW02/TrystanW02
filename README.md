@@ -1,25 +1,39 @@
 # 👤 Trystan Williams
 ### 💼 Current Position: Tech Asset Clerk
 
-***
 ## 🎓 Education
 ### B.S Information Science & Technology, *University of Oklahoma* (2020-2024)
 ### Certificates/Certifications:
-- Google Cybersecurity Professional Certificate, *Coursera* (FEB 2025)
-- Security+ Certification, *CompTIA* (APR 2025)
-- Netowrk+ Certification, *CompTIA* (IN PROGRESS)
+- Google Cybersecurity Professional Certificate, *Coursera* (Feb 2025)
+- Security+ Certification, *CompTIA* (Apr 2025)
+- Network+ Certification, *CompTIA* (In progress)
 
-<!--
-**TrystanW02/TrystanW02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚖️ Skills
+### Cybersecurity Principles
+### Threat Identification
+### Vulnerability Management
+### Network Security
+### Incident Response
+### Operating Systems:
+- Windows/Windows Server
+- macOS
+- Linux *(Kali, Mint, Ubuntu)*
+### Scripting Languages:
+- Python
+- Javascript
+- Bash
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+### SOC Home Lab
+### Malware Analysis
+
+## 🌱 I’m currently learning
+### Network+
+### Penetration Testing
+
+## 📫 How to reach me:
+### LinkedIN
+### Reddit
+
