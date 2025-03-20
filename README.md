@@ -34,7 +34,7 @@
 ### Penetration Testing
 
 ## 📫 How to reach me:
-### ![LinkedIn Logo](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg) LinkedIn: 
+### ![LinkedIn Logo](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/trystan-williams-914228225/)
 ### Reddit
 ### Email
 
