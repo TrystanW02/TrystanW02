@@ -1,4 +1,4 @@
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TrystanW02.png)](https://tryhackme.com/p/TrystanW02)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TrystanW02.png")
 # 👤 Trystan Williams
 ### Current Position: Tech Asset Clerk
 
