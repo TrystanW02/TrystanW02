@@ -34,7 +34,7 @@
 ### Penetration Testing
 
 ## 📫 How to reach me:
-### LinkedIn
+### ![LinkedIn Logo](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg) LinkedIn: 
 ### Reddit
 ### Email
 
