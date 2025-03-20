@@ -1,9 +1,12 @@
-# 🤝 Trystan Williams
+# 👤 Trystan Williams
 ### 💼 Current Position: Tech Asset Clerk
 
 ***
 ## 🎓 Education
-### B.S Information Science & Technology // University of Oklahoma
+### B.S Information Science & Technology, *University of Oklahoma* (2020-2024)
+#### Google Cybersecurity Professional Certificate, *Coursera* (FEB 2025)
+#### Security+ Certification, *CompTIA* (APR 2025)
+#### Netowrk+ Certification, *CompTIA* (IN PROGRESS)
 
 <!--
 **TrystanW02/TrystanW02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
