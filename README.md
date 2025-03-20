@@ -1,7 +1,7 @@
 # 👤 Trystan Williams
-### 💼 Current Position: Tech Asset Clerkk
+### Current Position: Tech Asset Clerkk
 
-### 📧 Email: trystanwilliams2002@outlook.com
+### 📧 trystanwilliams2002@outlook.com
 ### ![LinkedIn Logo](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/trystan-williams-914228225/)
 ### ![Reddit Logo](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/reddit.svg) [Reddit](https://www.reddit.com/user/TrystanW02/)
 
