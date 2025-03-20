@@ -1,5 +1,5 @@
 # 🤝 Trystan Williams
-## 💼 Tech Asset Clerk
+### 💼 Tech Asset Clerk
 ## 🎓 B.S Information Science & Technology // University of Oklahoma
 
 <!--
