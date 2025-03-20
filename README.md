@@ -2,7 +2,7 @@
 ### 💼 Current Position: Tech Asset Clerk
 
 ## 🎓 Education
-### B.S Information Science & Technology, *University of Oklahoma* (2020-2024)
+### B.S Information Science & Technology, *University of Oklahoma*
 ### Certificates/Certifications:
 - Google Cybersecurity Professional Certificate, *Coursera* (Feb 2025)
 - Security+ Certification, *CompTIA* (Apr 2025)
