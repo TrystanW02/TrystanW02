@@ -9,7 +9,7 @@
 ### Certificates/Certifications:
 - Google Cybersecurity Professional Certificate, *Coursera* (Feb 2025)
 - Security+ Certification, *CompTIA* (Apr 2025)
-- Network+ Certification, *CompTIA* (In progress)
+- CySa+ Certification, *CompTIA* (In progress)
 
 ## ⚖️ Skills
 ### Cybersecurity Principles
@@ -31,11 +31,13 @@
 ***
 
 ## 🔭 I’m currently working on
-### SOC Home Lab
+### Vulnerability Management
+### OSINT
 ### Malware Analysis
 
 ## 🌱 I’m currently learning
-### Network+
-### Penetration Testing
+### CompTIA CySa+ Certification
+### Malware Development
+### Red Team Principles
 
 
