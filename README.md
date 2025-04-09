@@ -13,17 +13,19 @@
 
 ## ⚖️ Skills
 ### Cybersecurity Principles
-### Threat Identification
+### Threat Intelligence
 ### Vulnerability Management
-### Network Security
-### Incident Response
+### Network Design & Management
+### Active Directory
+### Malware Analysis
+### Asset Management
 ### Operating Systems:
 - Windows/Windows Server
 - macOS
-- Linux *(Kali, Mint, Ubuntu)*
+- Linux *(Kali, Ubuntu)*
 ### Scripting Languages:
 - Python
-- Javascript
+- Powershell
 - Bash
 
 ***
