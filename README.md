@@ -32,7 +32,7 @@
 
 ## 🔭 I’m currently working on
 ### Vulnerability Management
-### OSINT
+### Scripting Languages (Powershell)
 ### Malware Analysis
 
 ## 🌱 I’m currently learning
