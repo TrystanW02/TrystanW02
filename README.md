@@ -33,7 +33,7 @@
 ### Malware Analysis
 
 ## 🌱 I’m currently learning
-### CompTIA CySa+ Certification
+### CompTIA Network+ Certification
 ### Malware Development
 ### Red Team Principles
 
